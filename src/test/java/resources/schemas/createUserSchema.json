@@ -1,0 +1,8 @@
+{
+  "type": "object",
+  "properties": {
+    "_id": { "type": "string" },
+    "message": { "type": "string" }
+  },
+  "required": ["_id", "message"]
+}
