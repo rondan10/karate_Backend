@@ -1,5 +1,5 @@
 # Proyecto de Pruebas Automatizadas con Karate DSL
-Proyecto para pruebas automatizadas por enpoints
+Proyecto para pruebas automatizadas por enpoints.
 
 ## Estructura del Proyecto
 
