@@ -13,7 +13,7 @@ function fn() {
   if (env == 'dev') {
     config.urlBase='https://serverest.dev'
   } else if (env == 'e2e') {
-    // customize
+    // customize-m
   }
   return config;
 }
